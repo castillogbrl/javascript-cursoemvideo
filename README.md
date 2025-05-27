@@ -10,3 +10,13 @@ O curso está dividido nos seguintes módulos:
 4. Condições em JavaScript
 5. Repetições (laços) em JavaScript
 6. Avançando nos estudos em JavaScript
+
+## Conhecendo o Javascript
+
+O que irei aprender aqui?
+
+1. Quais as capacidades do Javascript
+2. Dicas para aprendizagem
+3. Relação entre Javascript e ECMAscript
+4. Quais os requisitos de Software
+5. Primeiros scripts em Javascript
