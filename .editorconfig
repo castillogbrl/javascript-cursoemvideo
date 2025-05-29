@@ -1,0 +1,8 @@
+# top-most .editorconfig file
+root = true
+
+# 2 space indentation
+[*] 
+indent_style = space
+indent_size = 2
+# These alterations occur before saving the file!
