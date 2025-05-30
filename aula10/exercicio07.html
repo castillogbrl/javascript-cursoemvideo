@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Somando números</title>
+  </head>
+  <body>
+    <h1>Somando Valores</h1>
+    <input type="number" name="number1" id="n1" />
+    <input type="number" name="number2" id="n2" />
+    <input type="button" value="Somar" onclick="somar();" />
+
+    <script>
+      var number1 = document.querySelector("input#n1");
+      var number2 = document.querySelector("input#n2");
+      var numberOneConverted = Number(number1.value);
+      var numberTwoConverted = Number(number2.value);
+      var sum = numberOneConverted + numberTwoConverted;
+
+      function somar() {
+        window.alert(`A soma dos valores é ${sum}`);
+      }
+    </script>
+  </body>
+</html>
