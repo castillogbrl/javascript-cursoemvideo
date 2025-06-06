@@ -20,3 +20,13 @@ O que irei aprender aqui?
 3. Relação entre Javascript e ECMAscript
 4. Quais os requisitos de Software
 5. Primeiros scripts em Javascript
+
+## Próximos passos
+
+- Funções
+- Objetos
+- Modularização
+- RegEx (Expressões Regulares)
+- JSON
+- AJAX
+- Node.js
